@@ -1,2 +1,4 @@
 # Rancilio PID
 This is a PID Controller for the Rancilio Silvia (or mostly any other espresso machine if you want to adapt it) which supports Home Assistant via MQTT. With the help of Integration of the Homekit Bridge in Home Assistant you can also integrate your espresso machine to your Homekit Smarthome and control it with your iPhone and with Siri ("Hey siri, turn the espresso machine off" or "Hey siri, set the temperature of the espresso machine to 96 degrees").
+
+<img src="https://github.com/grssmnn/RancilioPID/blob/master/img/homeapp.jpg?raw=true" width="300"> <img src="https://github.com/grssmnn/RancilioPID/blob/master/img/siri.jpg?raw=true" width="300"><img src="https://github.com/grssmnn/RancilioPID/blob/master/img/hassio.jpg?raw=true" width="300">
